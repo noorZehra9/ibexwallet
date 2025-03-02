@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    background-color: #f95ed2; /* Purple background */
+}
+
+.bg-purple {
+    background-color: #9a2681 !important; /* Purple background for hero */
+}
+
+.navbar {
+    background-color: #db3a92; /* Dark background for navbar */
+}
+
+.card {
+    border: none;
+    border-radius: 0.5rem;
+}
+
+.card-title {
+    font-weight: 600;
+}
+
+.card-text {
+    font-size: 0.9rem;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+
+.line {
+    border-bottom: 2px solid black; /* Adjust thickness and color as needed */
+    width: 100%; /* Make it span the full width of its container */
+  }
+
+  .contact-form input,
+        .contact-form textarea {
+            width: 100%;
+            margin-bottom: 15px;
+            padding: 15px;
+            font-size: 1rem;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+        }
+
+footer {
+    background-color: #343a40; /* Dark background for footer */
+}
